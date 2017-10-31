@@ -1,2 +1,2 @@
 # phpslackin
-Script PHP for invite people and badget 
+Script PHP for invite people and badge to Slack
